@@ -11,3 +11,5 @@ Steps Followed:
     4. Added and committed the file with git add git commit
     5. Connected the local repository to GitHub using git remote add orgib.
     6. Pushed the brnch to GitHub using git push
+
+    collaborators -  Ishmael Bowen,Jasan Boston
